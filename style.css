@@ -510,6 +510,11 @@ img {
   position: relative;
   overflow: hidden;
   border-radius: 0.5rem;
+  height: 300px;
+  width: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .portfolio__data {
