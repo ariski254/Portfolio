@@ -279,7 +279,7 @@ img {
 }
 
 .home__profession {
-  font-size: var(--small-font-size);
+  font-size: var(--normal-font-size);
   color: var(--first-color);
   margin-bottom: var(--mb-5);
 }
@@ -381,7 +381,7 @@ img {
 }
 
 .about__information-subtitle-small {
-  font-size: var(--small-font-size);
+  font-size: var(--normal-font-size);
 }
 
 /* -------------------------------------------- Skills ------------------------- */
